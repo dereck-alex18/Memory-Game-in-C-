@@ -3,6 +3,9 @@
 
 void playing();
 void delay();
+void checkInputs(int &r, int &c);
 bool verifyEndGame();
+bool endGame();
+
 
 #endif
