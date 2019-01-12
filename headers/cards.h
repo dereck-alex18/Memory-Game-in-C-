@@ -3,7 +3,7 @@
 #include <time.h>
 #include <stdlib.h>
 
-//char cards[16];
+//Function prototypes
 
 char* randomCard();
 void randomizeCards();
